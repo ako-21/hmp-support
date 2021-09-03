@@ -1,1 +1,27 @@
 @import '~bootstrap/scss/bootstrap';
+
+
+
+
+$theme-colors: (
+  'primary': #a7bc5b,
+  'secondary': #8da242,
+  'ternary': rgb(240, 235, 225),
+  'header': rgba(255, 255, 255, .7),
+  'ghost': #fff
+);
+
+
+.threecx { 
+    text-decoration: none !important; 
+}
+
+.nav-font {
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 0.011811rem;
+    font-weight: normal;
+    font-size: 1.25rem;
+  }
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
