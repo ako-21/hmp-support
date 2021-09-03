@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hmp-support/static/css/main.fe3eb0cb.chunk.css",
+    "main.js": "/hmp-support/static/js/main.3fb64e5e.chunk.js",
+    "main.js.map": "/hmp-support/static/js/main.3fb64e5e.chunk.js.map",
+    "runtime-main.js": "/hmp-support/static/js/runtime-main.ee7798f9.js",
+    "runtime-main.js.map": "/hmp-support/static/js/runtime-main.ee7798f9.js.map",
+    "static/js/2.5009dad8.chunk.js": "/hmp-support/static/js/2.5009dad8.chunk.js",
+    "static/js/2.5009dad8.chunk.js.map": "/hmp-support/static/js/2.5009dad8.chunk.js.map",
+    "index.html": "/hmp-support/index.html",
+    "static/css/main.fe3eb0cb.chunk.css.map": "/hmp-support/static/css/main.fe3eb0cb.chunk.css.map",
+    "static/js/2.5009dad8.chunk.js.LICENSE.txt": "/hmp-support/static/js/2.5009dad8.chunk.js.LICENSE.txt",
+    "static/media/Logo.dbc9d720.png": "/hmp-support/static/media/Logo.dbc9d720.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee7798f9.js",
+    "static/js/2.5009dad8.chunk.js",
+    "static/css/main.fe3eb0cb.chunk.css",
+    "static/js/main.3fb64e5e.chunk.js"
+  ]
+}
